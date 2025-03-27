@@ -1,0 +1,132 @@
+[
+    {
+        "topic": "Python Programming",
+        "question": "Which is the best way to add a description of the data in an array?Options:A By copying data from a file.B By adding new data to a list.C By reordering data in a list.D By removing data from a list.Answer:C",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "What is the best way to get the data in a database?Options:A By using the XML database.B By using the XML importer.C By using the XQuery importer.D By using the XQuery exporter.Answer:C",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "What is the main idea of the article?Options:A A computer program.B A computer program for languages.C A computer program for languages.D A computer program for physics.Answer:C",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "How many times will a dummy program run?Options:A Four.B Six.C Seven.D Eight.Answer:B",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "What would you do if you had to write a line of code for a new file?Options:A You would have to change the file name.B You would have to change the file name.C You would have to change the file name.D You would have to change the file name.Answer:D",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "_ is used to read a file in a directory.Options:A B C D Answer:A",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "Which of the following statements is TRUE about a computer program?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "What is a problem with Python?Options:A It's not able to read the string.B It can't handle numbers.C It can't handle letters.D It can't handle special characters.Answer:B",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "What does a class do for you? _ .Options:A Arrays.B Files.C Functions.D Functions.Answer:A",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "_ can be used to program a computer.",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    }
+]

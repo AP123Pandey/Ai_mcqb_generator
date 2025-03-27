@@ -1,0 +1,132 @@
+[
+    {
+        "topic": "Python Programming",
+        "question": "Which of the following statements is TRUE about a Python program?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "Which is the best way to get the current time of the current page? (A) By using the _ function. (B) By using the _ function. (C) By using the _ function.",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "What is the best way to change a number to a letter?Options:A By typing the number in a new line.B By putting the number in a new line.C By typing the number in a new line.D By putting the number in a new line.Answer:B",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "What are the main functions of Python programming?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "When a computer program is run, the computer program will _ .",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "_ can read the string input.",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "_ is a collection of instructions that shows how to solve problems.Options:A iB jC kD lAnswer:C",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "Which of the following statements about the coding standards is TRUE?Options:A Python is very easy to learn.B Python is not used in real life.C Python is the most popular programming language.D Python is very difficult to learn.Answer:B",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "Which of the following statements about Python is NOT true?Options:A Python is the main language of the world.B Python is the most popular programming language.C Python is the only language with a name of a language.D Python is the most commonly used programming language.Answer:B",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python Programming",
+        "question": "Which is the first command in a Python program that should be written in the lowercase?Options:A lb().B lb().C lb().D lb().Answer:A",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python Programming.",
+        "difficulty": "Easy"
+    }
+]

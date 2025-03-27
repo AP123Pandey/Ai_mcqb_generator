@@ -1,0 +1,132 @@
+[
+    {
+        "topic": "Python_Programming",
+        "question": "What is the main idea of this question?Options:A Code for computers and other machines.B The history of computer programming.C Computers and other machines.D The development of computer software.Answer:A",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python_Programming",
+        "question": "What is the main function of the Python language? (a) To read input data. (b) To print the output of an program. (c) To create a map of data.",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python_Programming",
+        "question": "Which is the correct way to program a computer to run on a computer that is a Unix machine?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python_Programming",
+        "question": "What can you write in Python?Options:A a computer program.B an app.C a piece of software.D a program.Answer:B",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python_Programming",
+        "question": "Which is the best way of avoiding the need for a decimal point?Options:A Use decimal points.B Use decimal points.C Use floats.D Use decimals.Answer:A",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python_Programming",
+        "question": "Which of the following is a way to use the Python programming language?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python_Programming",
+        "question": "What are the most common problems in Python_Programming? (A) Code-breaking. (B) Data-receiving. (C) Coding errors.",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python_Programming",
+        "question": "What is the name of a type of coding that uses a string to create a string? (A) String_Programming. (B) String_Programming. (C) String_Programming.",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python_Programming",
+        "question": "Which of the following statements is true?",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "Python_Programming",
+        "question": "Which of the following is an example of a program that can be written in Python?Options:A A program that tells people to buy chocolate.B A program that tells people to cook their food in a pan.C A program that tells people to buy their own food.D A program that tells people to save money.Answer:C",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "explanation": "The correct answer is B) 2, as it relates to Python_Programming.",
+        "difficulty": "Easy"
+    }
+]
